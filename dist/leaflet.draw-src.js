@@ -856,6 +856,8 @@ L.Draw.Rectangle = L.Draw.SimpleShape.extend({
 });
 
 
+
+
 L.Draw.Circle = L.Draw.SimpleShape.extend({
 	statics: {
 		TYPE: 'circle'
